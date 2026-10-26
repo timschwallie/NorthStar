@@ -1,0 +1,6 @@
+@Northstar.Infrastructure_HostAddress = http://localhost:5018
+
+GET {{Northstar.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

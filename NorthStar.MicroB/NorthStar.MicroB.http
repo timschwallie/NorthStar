@@ -1,0 +1,6 @@
+@NorthStar.MicroB_HostAddress = http://localhost:5057
+
+GET {{NorthStar.MicroB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
